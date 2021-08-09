@@ -5,7 +5,7 @@ Address
 <https://explorer.nervos.org/aggron/address/ckt1qyq05cpdem46pamy2hw57dadkenswthk50kqf7kxnd>
 
 # 2. A screenshot of the console output immediately after using sudt-cli to create your SUDT tokens on Layer 1.
-![create img](https://github.com/walkertraylor/gitcoin_nervos/blob/main/task4/create.png?raw=true)
+![sudt img](https://github.com/walkertraylor/gitcoin_nervos/blob/main/task4/sudt.png?raw=true)
 
 # 3. A link to the transaction ID created by sudt-cli on the Testnet Explorer.
 <https://explorer.nervos.org/aggron/transaction/0xb84774883d01d735a874efa49d5480a6627782075b48e39c5cff1f8a8ccabc6a>
