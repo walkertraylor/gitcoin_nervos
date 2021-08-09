@@ -10,7 +10,7 @@
 0xEFE670BefCA908100c41ecB39F5C2B3a4f2EE1E0
 
 # 4. The ABI for contract you made a call on (in text format).
-'''
+```
 {
       "inputs": [],
       "stateMutability": "payable",
@@ -42,4 +42,4 @@
       "stateMutability": "view",
       "type": "function"
 }
-'''
+```
